@@ -1,1 +1,1 @@
-![IMAGEN DEL RESULTADO](img/captura1.png)
+![Resultado](img/captura1.png)
