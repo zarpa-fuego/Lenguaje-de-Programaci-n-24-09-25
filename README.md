@@ -1,1 +1,1 @@
-![Resultado](img/captura1.png)
+![Resultado](assets/captura1.png)
